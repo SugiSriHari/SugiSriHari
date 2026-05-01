@@ -118,12 +118,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SugiSriHari&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="48%" alt="GitHub Stats"/>
+[<img src="https://github-readme-stats.vercel.app/api?username=SugiSriHari&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="48%" alt="GitHub Stats"/>](https://github-readme-stats.vercel.app/api?username=SugiSriHari&show_icons=true&theme=tokyonight&count_private=true&hide_border=false&cache_seconds=1800&v=2)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SugiSriHari&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiSriHari&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" width="40%" alt="Top Languages"/>
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiSriHari&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" width="40%" alt="Top Languages"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=SugiSriHari&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800&v=2)
 
 <br/>
 
