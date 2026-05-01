@@ -1,77 +1,167 @@
-# Hi 👋, I'm Srikanth Manimaran
+<div align="center">
 
-### Aspiring Full Stack Developer | Passionate about Web Development
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srikanth%20Manimaran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Web%20Enthusiast&descAlignY=55&descSize=16"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A13C&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Srikanth+Manimaran!;💻+Full+Stack+Developer;🐍+Python+%7C+Django+%7C+Flask;🌐+HTML+%7C+CSS+%7C+JavaScript;🚀+Always+learning+new+things!)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=sugisrihari&label=Profile+Views&color=orange&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/sugisrihari?label=Followers&style=for-the-badge&color=orange" alt="Followers"/>
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 🌟 About Me
 
-- 🎓 Completed **B.E in Computer Science** from Muthayammal Engineering College, Rasipuram (CGPA: **8.1**)
-- 💻 Skilled in **Python, Django, Flask, HTML, CSS, JavaScript, SQL**
-- 🚀 Currently exploring **Full Stack Development** with Django & REST APIs
-- 🌱 Completed internship at **UNIQ Technologies** as Python Full Stack Developer
-- 🏅 Certified in **Problem Solving (HackerRank)**, **Cloud Computing (NPTEL)**, **AI Fundamentals (NPTEL)**
-- 🔥 Passionate about building **high-quality web applications** and solving real-world problems
-- 📍 Based in **Dharmapuri, Tamil Nadu**
+- 🎓 **B.E – Computer Science & Engineering**
+  Muthayammal Engineering College, Rasipuram *(CGPA: 8.1)*
+
+- 💼 **Python Full Stack Developer Intern** @ UNIQ Technologies
+
+- 🔭 Currently working on **Django & Flask Web Apps**
+
+- 🌱 Exploring **REST APIs, JavaScript Frameworks & Cloud**
+
+- 🏅 Certified in **HackerRank, NPTEL & SimpliLearn**
+
+- 💬 Ask me about **Python, Django, Flask, HTML/CSS**
+
+- 📫 Reach me at **msrikanth0503@gmail.com**
+
+- 📍 Based in **Dharmapuri, Tamil Nadu, India**
+
+- ⚡ Fun fact: *I debug with coffee ☕ and determination 💪*
+
+<br clear="right"/>
 
 ---
 
 ### 🛠️ Technical Skills
 
+<div align="center">
+
+#### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
+</div>
 
 ---
 
 ### 💼 Projects
 
-🍕 **Food Ordering Website** *(Python, Flask, HTML, CSS, JavaScript)*
-- Built an online food ordering platform where users can browse menus and place orders
-- Restaurant owners can manage menus, track orders, and interact with customers
+<table>
+<tr>
+<td width="50%">
 
-🏦 **Banking Management System** *(Python, Django, MySQL)*
-- Developed a secure banking system with account management, deposits, withdrawals, and fund transfers
-- Used Django ORM for scalable and reliable financial operations
+#### 🍕 Food Ordering Website
+**Tech:** Python · Flask · HTML · CSS · JavaScript
+
+- 🛒 Users can browse restaurants & place orders
+- 🍽️ Restaurant owners manage menus & track orders
+- 📱 Fully responsive design
+- 🔐 User authentication & session management
+
+</td>
+<td width="50%">
+
+#### 🏦 Banking Management System
+**Tech:** Python · Django · MySQL · HTML · CSS
+
+- 💰 Account management with deposit & withdrawal
+- 🔄 Secure fund transfer between accounts
+- 📊 Transaction history & account statements
+- 🛡️ Django ORM for reliable financial operations
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 📜 Certifications
 
-- 🏅 Problem Solving (Basic) — **HackerRank**
-- 🗄️ Introduction to SQL — **SimpliLearn**
-- ☁️ Cloud Computing — **NPTEL**
-- 🤖 Fundamentals of AI — **NPTEL**
-- 🐍 Python Programming — **SimpliLearn**
+<div align="center">
+
+| 🏅 Certificate | 🏢 Platform | ✅ Status |
+|---|---|---|
+| Problem Solving (Basic) | HackerRank | Completed |
+| Introduction to SQL | SimpliLearn | Completed |
+| Python Programming | SimpliLearn | Completed |
+| Cloud Computing | NPTEL | Completed |
+| Fundamentals of AI | NPTEL | Completed |
+
+</div>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Srikanth's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Srikanth's Streak" width="48%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="40%"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=sugisrihari&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sugisrihari&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugisrihari&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" width="40%" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sugisrihari&theme=tokyo-night&border_radius=10" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sugisrihari&theme=tokyonight&no-frame=false&margin-w=4&row=1" width="95%" alt="Trophies"/>
+
+</div>
 
 ---
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikanth-m-353a8026b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msrikanth0503@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+916379094856)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sugisrihari)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916379094856)
+
+</div>
 
 ---
 
-⭐️ *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+<div align="center">
+
+### 💭 Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
