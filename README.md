@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A13C&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Srikanth+Manimaran!;💻+Full+Stack+Developer;🐍+Python+%7C+Django+%7C+Flask;🌐+HTML+%7C+CSS+%7C+JavaScript;🚀+Always+learning+new+things!)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=sugisrihari&label=Profile+Views&color=orange&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=srikanth&label=Profile+Views&color=orange&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/sugisrihari?label=Followers&style=for-the-badge&color=orange" alt="Followers"/>
 
@@ -118,16 +118,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sugisrihari&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sugisrihari&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srikanth&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srikanth&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugisrihari&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth&layout=compact&theme=tokyonight&border_radius=10&langs_count=8" width="40%" alt="Top Languages"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sugisrihari&theme=tokyo-night&border_radius=10" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ssrikanth&theme=tokyo-night&border_radius=10" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -137,7 +137,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sugisrihari&theme=tokyonight&no-frame=false&margin-w=4&row=1" width="95%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=srikanth&theme=tokyonight&no-frame=false&margin-w=4&row=1" width="95%" alt="Trophies"/>
 
 </div>
 
