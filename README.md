@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Srikanth%20Manimaran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Web%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f39c12,50:e84393,100:2d3436&height=180&section=header&text=Srikanth%20Manimaran&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Web%20Enthusiast&descAlignY=55&descSize=16"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A13C&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Srikanth+Manimaran!;💻+Software+Developer;🐍+Python+%7C+Django+%7C+Flask;🌐+HTML+%7C+CSS+%7C+JavaScript;⚙️+C+%7C+C%2B%2B+%7C+SQL;🚀+Always+learning+new+things!)](https://git.io/typing-svg)
 
@@ -167,6 +167,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f39c12,50:e84393,100:2d3436&height=120&section=footer"/>
 
 </div>
