@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srikanth%20Manimaran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Web%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Srikanth%20Manimaran&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Web%20Enthusiast&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A13C&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Srikanth+Manimaran!;💻+Python+Developer;🐍+Python+%7C+Django+%7C+Flask;🌐+HTML+%7C+CSS+%7C+JavaScript;⚙️+C+%7C+C%2B%2B+%7C+SQL;🚀+Always+learning+new+things!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7A13C&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Srikanth+Manimaran!;💻+Software+Developer;🐍+Python+%7C+Django+%7C+Flask;🌐+HTML+%7C+CSS+%7C+JavaScript;⚙️+C+%7C+C%2B%2B+%7C+SQL;🚀+Always+learning+new+things!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=SugiSriHari&label=Profile+Views&color=orange&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
@@ -120,12 +120,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SugiSriHari&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com?user=SugiSriHari&theme=tokyonight&border_radius=10" width="48%" alt="GitHub Streak"/>
+<a href="https://github.com/SugiSriHari">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SugiSriHari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=3600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiSriHari&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=3600"/>
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SugiSriHari&layout=compact&theme=tokyonight&border_radius=10&langs_count=8&hide=jupyter%20notebook" width="45%" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=SugiSriHari&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="55%" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -165,6 +167,6 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=100&section=footer"/>
 
 </div>
